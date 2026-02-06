@@ -7,9 +7,9 @@ This project demonstrates the ability to build and manage custom data structures
 
 * **Custom Linked List:** Implemented to manage game stages and the "Timeline" as interconnected nodes, allowing for dynamic progression and traversal.
 * **Stack-Based Time Travel:** Utilizes **LIFO (Last-In-First-Out)** logic to handle the "Undo" and "Time Rewind" mechanics, enabling players to backtrack through previous game states effectively.
-* **Modular OOP Design:** Leverage 14 distinct classes designed with inheritance and encapsulation to ensure a clean separation of concerns and maintainable code.
+* **Modular OOP Design:** Leverages 14 distinct classes designed with inheritance and encapsulation to ensure a clean separation of concerns and maintainable code.
 
-[Image of a linked list data structure with nodes and pointers]
+
 
 ## 🎮 Game Features & Mechanics
 * **Dynamic Exploration:** Navigate through various "Rooms" (Nodes) while managing resources like HP and Echo Stones.
@@ -19,9 +19,9 @@ This project demonstrates the ability to build and manage custom data structures
 ## 📸 Technical Preview
 Below is the application running in the terminal, showcasing the active state management and the "View Timeline" feature:
 
-![Game Preview](timeloopexplorerss.png) 
+![Game Preview](game-preview.png) 
 
-[Image of a stack data structure showing push and pop operations]
+
 
 ## 💻 Tech Stack
 * **Language:** Java (JDK 11+)
